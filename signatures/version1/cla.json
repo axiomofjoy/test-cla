@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "axiomofjoy",
+      "id": 15664869,
+      "comment_id": 1543343093,
+      "created_at": "2023-05-11T05:06:44Z",
+      "repoId": 639219186,
+      "pullRequestNo": 2
+    }
+  ]
 }
