@@ -25,4 +25,4 @@ jobs:
           path-to-signatures: 'signatures/version1/cla.json'
           path-to-document: 'https://github.com/axiomofjoy/test-cla/blob/main/CLA.md'
           branch: 'cla'
-
+          lock-pullrequest-aftermerge: true
